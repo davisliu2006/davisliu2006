@@ -1,4 +1,4 @@
 Hello! I am Davis Liu
-- Grade 11 Student
+- Grade 11 Student passionate about computer science
 - UHS Robotics
-- Interests: Competitive Programming, Mathematics
+- Interests: competitive programming, mathematics
