@@ -3,5 +3,5 @@ Hello! I am Davis Liu
 - UHS Robotics
 - Interests: competitive programming, mathematics
 - Find Me
-  - [davisliu2006@gmail.com](url)
-  - [https://dmoj.ca/user/DavisLiu](url)
+  - davisliu2006@gmail.com
+  - https://dmoj.ca/user/DavisLiu
