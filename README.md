@@ -6,3 +6,16 @@ I'm a second year Software Engineering student at the University of Waterloo. My
 - https://davisliu2006.github.io
 - davisliu2006@gmail.com
 - https://dmoj.ca/user/DavisLiu
+
+-----
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisliu2006&layout=donut&theme=city_lights&exclude_repo=Boilerplate"
+        style="height: 200px;">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=davisliu2006&show_icons=true&theme=city_lights&hide_rank=true"
+        style="height: 200px;">
+    </a>
+</div>
