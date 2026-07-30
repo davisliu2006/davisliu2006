@@ -10,11 +10,11 @@ I'm a second year Software Engineering student at the University of Waterloo. My
 -----
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/stats-organization/github-readme-stats-action">
         <img src="stats/top-langs.svg"
         alt="" style="height: 200px;">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/stats-organization/github-readme-stats-action">
         <img src="stats/stats.svg"
         alt="" style="height: 200px;">
     </a>
