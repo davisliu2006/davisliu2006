@@ -1,11 +1,12 @@
-## Hello! I am Davis Liu,
+## Hello! I'm Davis Liu
 
-I'm a second year Software Engineering student at the University of Waterloo. My interests include competitive programming, robotics, and mathematics.
+I'm a Software Engineering student at the University of Waterloo. I enjoy building cool projects, exploring low-level systems, and experimenting with new technologies. I'm also interested in competitive programming, robotics, and mathematics.
 
-### Find Me:
-- https://davisliu2006.github.io
-- davisliu2006@gmail.com
-- https://dmoj.ca/user/DavisLiu
+### Links:
+
+- **Personal Website:** [davisliu2006.github.io](https://davisliu2006.github.io)
+- **LinkedIn:** [Davis Liu](https://www.linkedin.com/in/davis-liu-5178b6252/)
+- **DMOJ:** [DavisLiu](https://dmoj.ca/user/DavisLiu)
 
 -----
 
